@@ -1,9 +1,13 @@
-### Hi there 👋
+<h3 align="center">Welcome 🍵</h3>
+<p align="center">
+  <a href="https://workwithcarolyn.com">Website</a> /
+  <a href="https://twitter.com/carolstran">Twitter</a>
+  <br><br>
+  <img src="./stars.gif" />
+</p>
 
 <!--
-**carolstran/carolstran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Some ideas for later:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
