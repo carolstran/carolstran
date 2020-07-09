@@ -3,7 +3,7 @@
   <a href="https://workwithcarolyn.com">Website</a> /
   <a href="https://twitter.com/carolstran">Twitter</a>
   <br><br>
-  <img src="./stars.gif" />
+  <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" />
 </p>
 
 <!--
