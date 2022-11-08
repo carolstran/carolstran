@@ -1,7 +1,8 @@
 <h3 align="center">Welcome 🍵</h3>
 <p align="center">
   <a href="https://workwithcarolyn.com">Website</a> /
-  <a href="https://twitter.com/carolstran">Twitter</a>
+  <a href="https://twitter.com/carolstran">Twitter</a> /
+  <a href="https://mastodon.online/@carolstran">Mastodon</a>
   <br><br>
   <img src="https://github.com/carolstran/carolstran/blob/main/stars.gif" />
 </p>
